@@ -1,2 +1,2 @@
 # mywmconfigs
-My noctalia and niri. (Intended for personal my use.)
+My noctalia and niri configs. (Intended for personal my use.)
